@@ -1,0 +1,14 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "Jest testing",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Paweł Kamiński",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
